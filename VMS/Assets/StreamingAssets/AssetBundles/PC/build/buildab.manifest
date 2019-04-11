@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 4157341299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00b35507c03487fb62f5e3576c8ba185
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c7bacb817eb2eb4b9fbaafbda681043
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 450eda0022f0cf741ad1eedb5c4c70ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/MyFlies/AssetBundle/build/build40.prefab
+- Assets/MyFlies/AssetBundle/build/build21.prefab
+- Assets/MyFlies/AssetBundle/build/build3.prefab
+- Assets/MyFlies/AssetBundle/build/build20.prefab
+- Assets/MyFlies/AssetBundle/build/build28.prefab
+- Assets/MyFlies/AssetBundle/build/build26.prefab
+- Assets/MyFlies/AssetBundle/build/build45.prefab
+- Assets/MyFlies/AssetBundle/build/build33.prefab
+- Assets/MyFlies/AssetBundle/build/build19.prefab
+- Assets/MyFlies/AssetBundle/build/build11.prefab
+- Assets/MyFlies/AssetBundle/build/build15.prefab
+- Assets/MyFlies/AssetBundle/build/build47.prefab
+- Assets/MyFlies/AssetBundle/build/build12.prefab
+- Assets/MyFlies/AssetBundle/build/build44.prefab
+- Assets/MyFlies/AssetBundle/build/build18.prefab
+- Assets/MyFlies/AssetBundle/build/build36.prefab
+- Assets/MyFlies/AssetBundle/build/build43.prefab
+- Assets/MyFlies/AssetBundle/build/build22.prefab
+- Assets/MyFlies/AssetBundle/build/build14.prefab
+- Assets/MyFlies/AssetBundle/build/build51.prefab
+- Assets/MyFlies/AssetBundle/build/build41.prefab
+- Assets/MyFlies/AssetBundle/build/build5.prefab
+- Assets/MyFlies/AssetBundle/build/build27.prefab
+- Assets/MyFlies/AssetBundle/build/build24.prefab
+- Assets/MyFlies/AssetBundle/build/build30.prefab
+- Assets/MyFlies/AssetBundle/build/build35.prefab
+- Assets/MyFlies/AssetBundle/build/build17.prefab
+- Assets/MyFlies/AssetBundle/build/build34.prefab
+- Assets/MyFlies/AssetBundle/build/build2.prefab
+- Assets/MyFlies/AssetBundle/build/build9.prefab
+- Assets/MyFlies/AssetBundle/build/build4.prefab
+- Assets/MyFlies/AssetBundle/build/build6.prefab
+- Assets/MyFlies/AssetBundle/build/build49.prefab
+- Assets/MyFlies/AssetBundle/build/build46.prefab
+- Assets/MyFlies/AssetBundle/build/build10.prefab
+- Assets/MyFlies/AssetBundle/build/build8.prefab
+- Assets/MyFlies/AssetBundle/build/build31.prefab
+- Assets/MyFlies/AssetBundle/build/build1.prefab
+- Assets/MyFlies/AssetBundle/build/build23.prefab
+- Assets/MyFlies/AssetBundle/build/build42.prefab
+- Assets/MyFlies/AssetBundle/build/build39.prefab
+- Assets/MyFlies/AssetBundle/build/build50.prefab
+- Assets/MyFlies/AssetBundle/build/build25.prefab
+- Assets/MyFlies/AssetBundle/build/build13.prefab
+- Assets/MyFlies/AssetBundle/build/build29.prefab
+- Assets/MyFlies/AssetBundle/build/build37.prefab
+- Assets/MyFlies/AssetBundle/build/build16.prefab
+- Assets/MyFlies/AssetBundle/build/build52.prefab
+- Assets/MyFlies/AssetBundle/build/build48.prefab
+- Assets/MyFlies/AssetBundle/build/build38.prefab
+- Assets/MyFlies/AssetBundle/build/build32.prefab
+- Assets/MyFlies/AssetBundle/build/build7.prefab
+Dependencies: []

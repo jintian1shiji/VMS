@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7e25b20d6d149f94191e2fedbd689fb3
+timeCreated: 1504166329
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Leaf_Tex: {fileID: 2800000, guid: cb067e8375db41b40be740e7d977c1f5, type: 3}
+  - _N_Texture: {fileID: 2800000, guid: 106169ca5874b824c886a633713cea9c, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

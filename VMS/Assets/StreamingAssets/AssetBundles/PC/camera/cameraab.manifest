@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3847657352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2815b34d73c5cc9cb52fa2061a7b7d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dde7aa9ff91dc8618a0b5b87bdd29ea6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: daaab6917de052546b1ab20912fbe6ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/MyFlies/AssetBundle/Camera/camera02.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera12.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera00.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera20.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera21.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera01.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera10.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera22.prefab
+- Assets/MyFlies/AssetBundle/Camera/camera11.prefab
+Dependencies: []

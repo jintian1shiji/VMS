@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 795027633
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: earthab
+      Dependencies: {}

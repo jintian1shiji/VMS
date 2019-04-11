@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1754118329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a4fd4ef6d5e56ffd0e23df209f07353
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7edc64ade83331e582c377edf1c684f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 450eda0022f0cf741ad1eedb5c4c70ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/MyFlies/AssetBundle/build/Floor/Floor6.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor2.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor7.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor1.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor3.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor5.prefab
+- Assets/MyFlies/AssetBundle/build/Floor/Floor4.prefab
+Dependencies: []

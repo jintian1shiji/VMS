@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2205856970
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: firstloadcanvasab
+      Dependencies: {}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af444f2672a315f4eb443caa51fe25cd
+timeCreated: 1503992218
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _BC_Texture: {fileID: 2800000, guid: 167222923051c6343a83263e3f15604d, type: 3}
+  - _BC_BlendTex: {fileID: 2800000, guid: 0175b4f306ef10144b877a91147952cf, type: 3}
+  - _Mask_Texture: {fileID: 2800000, guid: 1fa21822655213545a64849f57a7b248, type: 3}
+  - _BC_Tu: {fileID: 2800000, guid: 5dc8a225dd75987468ec68d1938a3bc6, type: 3}
+  - _node_4779: {fileID: 2800000, guid: f8e2244331d5cde4a9ad59006e022e81, type: 3}
+  - _N_Texture: {fileID: 2800000, guid: f4c5ec761598d0748b5161c5c22eb1b4, type: 3}
+  - _Mask_Texture_tu: {fileID: 2800000, guid: 1fa21822655213545a64849f57a7b248, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

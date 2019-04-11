@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Earth
+  m_Shader: {fileID: 4800000, guid: 3dac94a2db44b514c93b7638fcbd91ca, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BC:
+        m_Texture: {fileID: 2800000, guid: ceed46081ae4d254ab0d6df49a44b828, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Displacement:
+        m_Texture: {fileID: 2800000, guid: a3723ac81446bd4428e3e4e749a04076, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Display:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tess:
+        m_Texture: {fileID: 2800000, guid: a3723ac81446bd4428e3e4e749a04076, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_1341:
+        m_Texture: {fileID: 2800000, guid: 66ca07294919b0646a3232db128caeb1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_157:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_4511:
+        m_Texture: {fileID: 2800000, guid: a3723ac81446bd4428e3e4e749a04076, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_9511:
+        m_Texture: {fileID: 2800000, guid: ceed46081ae4d254ab0d6df49a44b828, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BC_Contrast: 1.82
+    - _BumpScale: 1
+    - _Cloud_tile: 0.05
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _E_Contrast: 0.5
+    - _E_intensity: 0
+    - _Em_Contrast: 0.6
+    - _Em_Intensity: 1.89
+    - _Em_MaxBright: 0.309
+    - _Emission: 0.5
+    - _Fresnel_FallOff: 4.03
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Tessellation: 14
+    - _UVSec: 0
+    - _VerOffset: 0.15
+    - _ZWrite: 1
+    - _node_1255: 0
+    - _node_259: 0
+    - _node_4004: 0
+    - _node_4277: 1.84
+    - _node_4823: 0.315
+    - _node_5023: 20
+    - _node_5267: 0.7
+    - _node_6013: 0
+    - _node_604: 0.272
+    - _node_6347: 0
+    - _node_7180: 0
+    - _node_8136: 0.1
+    - _node_8587: 2
+    - _node_9269: 3
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0.03676468, g: 0.03676468, b: 0.03676468, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Fresnel_Color: {r: 0, g: 0.7931032, b: 1, a: 1}
+    - _node_3118: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_780: {r: 0.23529413, g: 0.5882353, b: 0.6901961, a: 1}
